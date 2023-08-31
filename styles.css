@@ -1,0 +1,18 @@
+body {
+  border-radius: 5px;
+  border: 2px solid brown;
+  font-family: cursive, sans-serif;
+  font-size: 15px;
+  margin: 10px;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  margin: 7px;
+}
+
+#jokeElt {
+  color: brown;
+  margin: 7px;
+}
